@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oraposopurpura-eterno.github.io/oraposopurpura/sitemap.xml
